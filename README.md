@@ -1,7 +1,7 @@
 # swoft-admin-demo
 swoft-admin demo源码
 
-##安装
+## 安装
 #### 1.创建数据库并导入sql文件
 >  resources/swoft-admin-demo.sql
 
