@@ -1,6 +1,9 @@
 # swoft-admin-demo
 swoft-admin demo源码
 
+[Demo预览](http://103.45.104.52:8000)|[Swoft Admin](https://github.com/jqhph/swoft-admin)
+
+
 ## 安装
 #### 1.创建数据库并导入sql文件
 >  resources/swoft-admin-demo.sql
